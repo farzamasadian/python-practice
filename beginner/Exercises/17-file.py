@@ -1,0 +1,5 @@
+mak=open('/Users/farzam/Desktop/mak.txt')
+print(type(mak.read()))
+print(type(mak))
+print(type(mak.readline()))
+print(type(mak.readlines()))
